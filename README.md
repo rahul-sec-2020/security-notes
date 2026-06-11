@@ -6,7 +6,7 @@ Hi, I'm Rahul Sharma — Cybersecurity Analyst at CyberNova Solutions.
 - 🔭 Currently working on threat analysis and penetration testing
 - 📍 Based in Delhi, India
 - 📧 Reach me at: rahulsharma.sec2020@gmail.com
-- 💼 LinkedIn: linkedin.com/in/rahul-sec-2020
+- 💼 LinkedIn: linkedin.com/in/rahul-sharma-sec2020
 
 ## My Interests
 - Web Application Security
@@ -16,4 +16,5 @@ Hi, I'm Rahul Sharma — Cybersecurity Analyst at CyberNova Solutions.
 ## Note To Self 🔐
 Remember to check the paste — key is **rs2020secure**
 
+---
 *"Security is not a product, but a process."*
