@@ -13,8 +13,7 @@ Hi, I'm Rahul Sharma — Cybersecurity Analyst at CyberNova Solutions.
 - OSINT Investigations
 - Bug Bounty Hunting
 
-## Note To Self 🔐
-Remember to check the paste — key is **rs2020secure**
+## Latest Update
+Follow my security updates on X : @rahul_sec_2020
 
----
-*"Security is not a product, but a process."*
+*Security is not a product, but a process.*
